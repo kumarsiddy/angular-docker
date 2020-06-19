@@ -2,6 +2,7 @@ To run this project on docker image, copy it in your local repo.
 
 `git clone https://github.com/kumarsiddy/angular-docker.git`
 
+cd angular-docker/
 
 run this command to create the image
 
