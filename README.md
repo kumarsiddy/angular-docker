@@ -16,4 +16,4 @@ run the creaed docker image and open the port
 
 `docker run --name hello-world-container -d -p 8000:80 hello-world-image`
 
-to check go to `http://localhost:5777`
+to check go to `http://localhost:8000`
